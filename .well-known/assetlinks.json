@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.csnieto.barcodeqrscanner",
+            "sha256_cert_fingerprints": [
+                "A6:96:BE:1B:D4:8A:DE:0D:7C:91:68:5E:50:F9:00:53:E5:EB:B0:62:9E:86:3F:64:C2:EF:96:F1:E2:9C:4F:B3"
+            ]
+        }
+    }
+]
